@@ -1,0 +1,29 @@
+body{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaUwJaD4L4r5HCYBNV7pIpRiFP6O6dV-MYyepzh4subl6WO2ef&usqp=CAU");
+background-size: auto 200vh;
+height: 100vh;  
+font-family:Arial;
+}
+.menu{
+background-color:white;
+}
+.menu ul{
+display:flex;
+  justify-content: space-around;
+}
+.menu  li{
+  list-style:none;
+}
+a{
+  color: teal;
+ text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+}
+.site-subtitulo,
+.site-titulo{
+  text-align: center;
+  color: whitesmoke;
+  font-style: italic;  
+}
